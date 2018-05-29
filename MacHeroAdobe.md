@@ -32,7 +32,9 @@ Mac世界也从即将毁灭的危机中重生了。
 这就是在后世吟游诗人传唱的史诗中， Adobe 四英雄拯救Mac世界的故事。
 
 
-
+#
+#
+#
 from http://tieba.baidu.com/p/4334319580 25L by masmyc
 
 所以说 Adobe 什么时候可以出 Linux 版全家桶，
