@@ -1,5 +1,7 @@
-from https://www.v2ex.com/t/170716 by @lyragosa
 Adobe全家桶从rm -rf */大魔王手中拯救Mac大陆的故事
+
+from https://www.v2ex.com/t/170716 by @lyragosa
+
 
 许多年前，自从OS X女神从先代女神Mac OS 9那里接过了Mac世界的控制权，Mac世界就再次变得安静祥和繁荣昌盛。 
 
